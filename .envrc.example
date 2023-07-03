@@ -1,0 +1,3 @@
+export PALPALO_VALORANT_API_CLIENT_ID=play-valorant-web-prod
+export PALPALO_VALORANT_API_REDIRECT_URI=https://playvalorant.com/opt_in
+export PALPALO_VALORANT_API_USER_AGENT="RiotClient/63.0.9.4909983.4789131 rso-auth (Windows; 10;;Professional, x64)"
